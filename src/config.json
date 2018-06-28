@@ -1,6 +1,6 @@
 {
-    "token": "token",
-    "clientid": "clientid",
+    "token": "NDYxOTI1NDI0NDY1OTY5MTYz.DhaZFg.qoaAdefCHWyZh3p_TgIgvXuwoHc",
+    "clientid": "461925424465969163",
     "prefix": "!",
     "version": "3.0.1",
     "chat": "main-chat",
@@ -8,7 +8,7 @@
     "streamingGame": "DiscordCaptcha",
     "streamingLink": "https://www.twitch.tv/doxicalswitch",
     "evalAllowed": "true",
-    "ownerid": "312715611413413889",
+    "ownerid": "443783520716980224",
     "logging": true,
     "captchaType": "image",
     "commands": {
